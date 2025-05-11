@@ -1,1 +1,1 @@
-# travel-toolkit
+This tool focuses on constructing matrices that reveal which stops are reachable from each stop in a given time range for each minute. Currently only bus stops are used as input and not centroids. Walking an allowable distance and riding to bus stops are the only two factors considered for reachability.   
